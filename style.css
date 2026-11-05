@@ -9,3 +9,12 @@ button {
     font-size: 16px;
     cursor: pointer;
 }
+
+#helloBtn {
+    background-color: steelblue;
+    color: white;
+}
+
+#helloBtn.clicked {
+    background-color: tomato;
+}
